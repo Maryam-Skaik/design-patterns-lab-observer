@@ -13,7 +13,7 @@ This repository accompanies the lecture on the **Observer Pattern**, focusing on
 
 ▶️ Watch on YouTube:  
 
-[Lecture Video](#)
+[Lecture Video](https://youtu.be/GS5o9LXlTKk)
 
 ---
 
