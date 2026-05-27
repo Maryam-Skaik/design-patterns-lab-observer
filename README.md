@@ -1,7 +1,8 @@
 # 🧠 Design Patterns Lab — Observer Pattern
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
-![Pattern](https://img.shields.io/badge/Pattern-Observer-green)
+![Pattern](https://img.shields.io/badge/Pattern-Observer-pink)
+![Week](https://img.shields.io/badge/Week-6-green)
 ![Level](https://img.shields.io/badge/Level-Intermediate-orange)
 ![Focus](https://img.shields.io/badge/Focus-Event%20Driven%20Design%20%26%20Decoupling-purple)
 
@@ -174,6 +175,39 @@ Avoid when:
 - Implement step-by-step examples
 - Solve activities independently
 - Extend with new observer types
+
+---
+
+Add this section under a **Solutions section placed after “How to Use This Repository” and before “Contribution”** for best flow.
+
+Here is the updated README section ready to paste:
+
+---
+
+## 💾 Solutions
+
+📁 [`solutions/`](solutions/)
+
+All activity solutions are available inside the `/solutions` folder.
+
+Each solution includes:
+
+* UML diagrams and design explanation
+* Clean and well-structured Java implementation
+* Notes about relationships and design decisions
+* Event-driven workflow explanation
+* Observer Pattern behavior analysis
+* Example usage through `Main.java`
+
+---
+
+### Included Solutions
+
+* 🧾 Online Learning Notification System (Observer Pattern)
+
+---
+
+> Students are encouraged to complete the activities independently first, then use the provided solutions to compare implementations, understand design decisions, and explore alternative approaches.
 
 ---
 
